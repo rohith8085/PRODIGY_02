@@ -17,7 +17,7 @@ This project is a web-based Tic Tac Toe game with an interactive interface. The 
 
 1. Clone the repository:
  
-   git clone https://github.com/AslamHabeeb/PRODIGY_WD_03.git
+   git clone https://github.com/rohith8085/PRODIGY_WD_02.git
 
 2. Navigate to the project directory:
  
