@@ -53,6 +53,6 @@ For any questions or inquiries, please contact:
 
 - Name       : Rohith krishna R
 - instagram  : rohith_krishhh
-  LinkedIn   : https://www.linkedin.com/in/rohith-r-a7aaa5314/
+- LinkedIn   : https://www.linkedin.com/in/rohith-r-a7aaa5314/
 ---
 
