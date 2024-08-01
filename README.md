@@ -51,8 +51,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact:
 
-- Name       : Aslam H
-- instagram  : aslam_habeeb_
-  LinkedIn   : https://www.linkedin.com/in/aslamhabeeb/
+- Name       : Rohith krishna R
+- instagram  : rohith_krishhh
+  LinkedIn   : https://www.linkedin.com/in/rohith-r-a7aaa5314/
 ---
 
